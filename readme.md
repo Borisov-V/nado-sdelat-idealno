@@ -1,1 +1,1 @@
-https://borisov-v.github.io/nado-sdelat-idealno/
+[Link to github-pages](https://borisov-v.github.io/nado-sdelat-idealno/)
